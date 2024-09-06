@@ -1,7 +1,7 @@
 # Telegram Raydium Volume Bot
 
 This bot is designed to automate the distribution of SOL to multiple wallets and execute endless buy and sell swap transactions simultaneously on the Raydium platform. It leverages Solana's blockchain technology to perform these operations efficiently.
-![maxresdefault](https://github.com/user-attachments/assets/f84f4beb-65ff-4aa6-a6af-c6f8a19a299e)
+![maxresdefault](https://github.com/user-attachments/assets/7e5d727c-70b1-46c4-93ad-7467b42247a7)
 
 
 NOTE: This is an older version of my Solana Volume bot, **join our [Telegram](https://t.me/z3nology) for more info**
