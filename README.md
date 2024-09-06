@@ -4,7 +4,7 @@ This bot is designed to automate the distribution of SOL to multiple wallets and
 ![maxresdefault](https://github.com/user-attachments/assets/f84f4beb-65ff-4aa6-a6af-c6f8a19a299e)
 
 
-NOTE: This is a older version of my Solana Volume bot, **join our [Telegram](https://t.me/z3nology) for more info**
+NOTE: This is an older version of my Solana Volume bot, **join our [Telegram](https://t.me/z3nology) for more info**
 
 https://github.com/user-attachments/assets/b62ae9c3-347a-447f-8618-94059fefafb4
 
@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/b62ae9c3-347a-447f-8618-94059fefafb4
 - **Endless Buy and Sell Swaps**: Performs simultaneous buy and sell transactions.**
 - **Configurable Parameters**: Allows customization of buy amounts, intervals, distribution settings, and more.**
 - **Massive Buy Mode**: Enables the configuration of multiple wallets for large-scale buy operations.**
-- **Sell Mode**: Gradually sells all tokens in sub-wallets through small transactions.**
+- **Sell Mode**: Gradually sell all sub-wallets tokens through small transactions.**
 - **Token Pair Settings**: Configurable token mint and pool ID for swap operations.**
 - **Logging**: Supports adjustable logging levels for better monitoring and debugging.**
 
