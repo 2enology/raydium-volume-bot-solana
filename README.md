@@ -4,7 +4,7 @@ This bot is designed to automate the distribution of SOL to multiple wallets and
 ![maxresdefault](https://github.com/user-attachments/assets/7e5d727c-70b1-46c4-93ad-7467b42247a7)
 
 
-NOTE: This is an older version of my Solana Volume bot, **join our [Telegram](https://t.me/z3nology) for more info**
+NOTE: This is an older version of my Solana Volume bot, **join our [Telegram](https://t.me/sac_volume_bot) for more info**
 
 https://github.com/user-attachments/assets/b62ae9c3-347a-447f-8618-94059fefafb4
 
